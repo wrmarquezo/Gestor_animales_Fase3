@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"estudian",
+				"estudiantesController"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"con",
+				"controlador"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"id",
+				"id_seccion"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "|+| \"$estudiantes\"\n",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Config\\Autoload.php\n	|+| 4\n	|+| 9\n	|+| 12\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Config\\Enrutador.php\n	|+| 5\n	|+| 9\n	|+| 17\n	|+| 21\n	|+| 23\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Config\\Request.php\n	|+| 9\n	|+| 13\n	|+| 16\n	|+| 24\n	|+| 35\n	|+| 37\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Controllers\\estudiantesController.php\n	|+| 5\n	|+| 9\n	|+| 13\n	|+| 16\n	|+| 50\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Models\\Conexion.php\n	|+| 4\n	|+| 11\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Models\\Estudiante.php\n	|+| 3\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Models\\Seccion.php\n	|+| 3\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\estudiantes\\agregar.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\estudiantes\\editar.php\n	|+| 1\n	|+| 3\n	|+| 4\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\estudiantes\\index.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\estudiantes\\ver.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\secciones\\agregar.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\secciones\\editar.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\secciones\\index.php\n	|+| 1\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\Views\\template.php\n	|+| 3\n	|+| 9\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\Aplicacion\\index.php\n	|+| 3\n	|+| 8\n	|+| 10\n=> C:\\xampp\\htdocs\\Sitio_prueba\\Codigo facilito\\PHP basico\\1.php\n	|+| 3\n",
+			"settings":
+			{
+				"buffer_size": 1671,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 289.0,
+		"last_filter": "xdebug",
+		"selected_items":
+		[
+			[
+				"xdebug",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation' - See more at: http://mipedacitodeinternet.blogspot.com.co/2012/12/windows-sublime-php-xdebug-en-windows.html#sthash.mydMpQLa.dpuf",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"$ subl",
+			"$ subl -v",
+			"subl",
+			"subl --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Config",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Controllers",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Models",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/estudiantes",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/secciones"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Ejemplo UNAD/prueba.html",
+		"/C/xampp/htdocs/Ejemplo UNAD/Unad index.html",
+		"/C/xampp/htdocs/Ejemplo UNAD/css/normalize.css",
+		"/C/Users/Administrador/Desktop/Ingenieria de sistemas/3 semestre/Diseño de sitios web/Actividad 1/Ejemplo UNAD/prueba.html",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/PHP basico/1.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/index.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Controllers/estudiantesController.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Config/Enrutador.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Controllers/seccionesController.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/secciones/index.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Models/Seccion.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/secciones/agregar.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/template.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/estudiantes/ver.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Models/Estudiante.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/estudiantes/index.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/estudiantes/agregar.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Config/Request.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/estudiantes/editar.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Models/Conexion.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Config/Autoload.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/php/php.ini-production",
+		"/C/xampp/php/php.ini-development",
+		"/C/xampp/htdocs/phpinfo.php",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Aplicacion.sublime-project",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/template/css/bootstrap.css",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Views/template/css/general.css",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/Controllers/estudiantesController.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/Models/Conexion.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/index.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/.htaccess",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/Config/Request.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/curso-cf-php-poo-master/.htaccess",
+		"/C/xampp/htdocs/.htaccess",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/htdocs_adfasdf/.htaccess",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Aplicacion/Config/request",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Autoload/index_autoload.php",
+		"/C/xampp/htdocs/Sitio_prueba/Codigo facilito/Autoload/clases/persona.php",
+		"/C/xampp/htdocs/dashboard/index.html",
+		"/C/xampp/htdocs/index.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zend e",
+			"zend ex",
+			"dropdown-toggle",
+			"dropdown",
+			"container-fluid",
+			"navbar navbar-inverse navbar-fixed-top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1671,
+								1671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.855953635406,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "Aplicacion.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"107":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"117":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"119":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"122":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"124":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"125":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"17":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"18":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"19":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"20":
+				{
+					"group": 2,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.562238622386,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
